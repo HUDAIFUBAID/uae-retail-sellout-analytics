@@ -1,0 +1,8 @@
+# Confidential source data and outputs: never commit
+*.xlsx
+*.xls
+*.csv
+*.pbix
+data/
+__pycache__/
+.ipynb_checkpoints/
