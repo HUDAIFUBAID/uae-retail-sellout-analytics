@@ -4,8 +4,11 @@ End-to-end analytics project on one quarter of weekly PC sell-out data from elec
 
 **Tools:** Python (pandas, scikit-learn) · Power BI · DAX · Power Query
 
-![Overview page](images/dashboard_overview.png)
-![Clusters and risk page](images/dashboard_clusters_risk.png)
+![Overview page](page1.png)
+
+![Clusters and risk page](page2.png)
+
+![Data model](model.png)
 
 ## Business question
 
