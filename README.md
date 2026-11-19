@@ -4,12 +4,11 @@ End-to-end analytics project on one quarter of weekly PC sell-out data from elec
 
 **Tools:** Python (pandas, scikit-learn) · Power BI · DAX · Power Query
 
-Repository/
-│
-├── README.md
-├── page1.png
-├── page2.png
-└── model.png
+![Overview page](images/page1.png)
+
+
+
+![Data model](images/model.png)
 
 ## Business question
 
@@ -38,7 +37,7 @@ Which stores, malls and categories are hitting their targets, where is stock pil
 - Next-quarter forecast: about **1,450 units a week** (±33%, 4-week average was the most accurate method on held-out weeks).
 
 ## Store clusters
-
+![Clusters and risk page](images/page2.png)
 | Cluster | Stores | Profile | Action |
 | --- | --- | --- | --- |
 | Fast Movers | 19 | Highest sales, low stock, growing | Send more stock |
